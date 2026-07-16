@@ -23,5 +23,8 @@
     "@actions/github": "^8.0.1",
     "prettier": "^3.2.5",
     "prettier-cli": "^0.1.0"
+  },
+  "overrides": {
+    "undici": "^6.27.0"
   }
 }
